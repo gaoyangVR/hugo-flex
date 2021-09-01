@@ -29,18 +29,18 @@ params:
 
 menu:
   nav:
-  - name: About
+  - name: Home
     url: about/
     weight: 1
-  - name: Posts
-    url: post/
+  - name: News
+    url: news/
     weight: 2
-  - name: Tags
-    url: tags/
+  - name: Pubs
+    url: publications/
     weight: 3
-  - name: Categories
-    url: categories/
+  - name: Connect
+    url: connect/
     weight: 4
-  - name: RSS
-    url: index.xml
-    weight: 5
+  #- name: RSS
+  #  url: index.xml
+  #  weight: 5
